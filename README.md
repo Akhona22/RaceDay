@@ -25,3 +25,19 @@ To set up the database:
 4. The script creates the RaceDay database, tables, relationships and constraints.
 5. The script inserts sample data for organisers, participants, events, categories, enrolments and results.
 6. Run the included SELECT statements to verify the inserted data.
+
+## CI/CD Status
+
+GitHub Actions is configured to validate the required Part 1 repository files.
+
+The workflow checks that the following files exist:
+
+- `docs/RaceDay_ERD.pdf`
+- `docs/RaceDay_API_Endpoint_Plan.pdf`
+- `docs/RaceDay_Database.sql`
+- `README.md`
+
+The latest workflow run completed successfully.
+
+![CI Success](docs/ci-success.png)
+   
