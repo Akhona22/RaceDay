@@ -56,6 +56,7 @@ The RaceDay Part 1 submission includes the following:
 ## Video Presentation
 
 YouTube Video: To be added after the Part 1 presentation is recorded and uploaded.
+YouTube Video: https://youtu.be/R-M_7gArQFY
 
 ## Part 1 Status
 
