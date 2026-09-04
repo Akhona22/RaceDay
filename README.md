@@ -41,3 +41,22 @@ The latest workflow run completed successfully.
 
 ![CI Success](docs/ci-success.png)
    
+## Part 1 Deliverables
+
+The RaceDay Part 1 submission includes the following:
+
+- Entity Relationship Diagram (ERD)
+- API Endpoint Plan
+- SQL Server Database Script
+- Sample and seed database data
+- GitHub Actions CI workflow
+- CI/CD success evidence
+- Video presentation
+
+## Video Presentation
+
+YouTube Video: To be added after the Part 1 presentation is recorded and uploaded.
+
+## Part 1 Status
+
+The planning, database design, API planning and continuous integration components for RaceDay Part 1 have been completed. These components will provide the foundation for the implementation of the RaceDay application in Part 2.
