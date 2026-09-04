@@ -1,12 +1,13 @@
 # RaceDay
-RaceDay event Management system - PROG6212w Part 1
 
-RaceDay is an event management system designed to allow organisers
-to manage events, categories, participant enrolments and results.
+RaceDay is an event management system designed to help organisers manage events, categories, participant enrolments and race results.
 
-The system supports two main user roles:
+This repository contains the planning and database work for PROG6212 Programming 2B Part 1.
 
-- Organiser
-- Participant
+## User Roles
 
-This repository contains the planning and database work for PROG6212
+### Organiser
+An Organiser can create, update and delete events, manage event categories, view participant enrolments, capture participant results and view the events they manage.
+
+### Participant
+A Participant can create an account, log in, browse available events, enter an event, select a category and view their own enrolments and results.
