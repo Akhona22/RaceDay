@@ -15,12 +15,13 @@ A Participant can create an account, log in, browse available events, enter an e
 
 The RaceDay database script is located in the `docs` folder as `RaceDay_Database.sql`.
 
-The current Part 1 database was created and tested using MySQL 8.0.
+The RaceDay Part 1 database script is written for Microsoft SQL Server and is intended to run on a clean SQL Server instance.
 
 To set up the database:
 
-1. Open MySQL 8.0.
-2. Run the `RaceDay_Database.sql` script.
-3. The script creates the RaceDay database tables and relationships.
-4. The script inserts sample data for organisers, participants, events, categories, enrolments and results.
-5. Run the included SELECT statements to verify the inserted data.
+1. Open SQL Server Management Studio.
+2. Open the `RaceDay_Database.sql` file from the `docs` folder.
+3. Run the script on a clean SQL Server instance.
+4. The script creates the RaceDay database, tables, relationships and constraints.
+5. The script inserts sample data for organisers, participants, events, categories, enrolments and results.
+6. Run the included SELECT statements to verify the inserted data.
